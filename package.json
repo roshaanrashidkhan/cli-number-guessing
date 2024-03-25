@@ -1,6 +1,6 @@
 {
   "name": "@roshaanrashidkhan/cli-number-guessing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a cli based number guessing project using TypeScript",
   "main": "index.js",
   "type": "module",
